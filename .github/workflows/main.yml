@@ -40,4 +40,4 @@ jobs:
           artifacts: "build/app/outputs/apk/debug/*"
           # C:\Users\DELL\Documents\GitHub\pass-app\build\app\outputs\flutter-apk\app-release.apk
           tag: pass.v1.0.${{ github.run_number }}
-          token: ${{ secrets.ACTION_TOKEN }}
+          token: ${{ secrets.HARSH_TODO }}
